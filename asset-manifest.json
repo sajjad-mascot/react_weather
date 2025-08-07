@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/react_weather/static/js/main.3431a7e9.js",
+    "static/js/453.6cfd0903.chunk.js": "/react_weather/static/js/453.6cfd0903.chunk.js",
+    "index.html": "/react_weather/index.html",
+    "main.3431a7e9.js.map": "/react_weather/static/js/main.3431a7e9.js.map",
+    "453.6cfd0903.chunk.js.map": "/react_weather/static/js/453.6cfd0903.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.3431a7e9.js"
+  ]
+}
