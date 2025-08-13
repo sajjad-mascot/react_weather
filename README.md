@@ -2,7 +2,14 @@
 
 **Mascot Weather** is a modern, responsive weather forecasting React app built with **Tailwind CSS**, **React Leaflet**, and the **OpenWeatherMap API**. It offers live weather data based on the user's current location or city search, enhanced with map view and smart suggestions powered by the **OpenStreetMap Nominatim API**.
 
-![Mascot Weather Logo](https://sajjad-mascot.github.io/react_weather/assets/mascot-DK3p81GK.png )
+![Mascot Weather Logo](https://sajjad-mascot.github.io/react_weather/assets/mascot-DK3p81GK.png)
+
+---
+
+## 🌐 Live Demo  
+**🔗 [View Mascot Weather App](https://sajjad-mascot.github.io/react_weather)**
+
+---
 
 ## 🚀 Features
 
@@ -13,9 +20,11 @@
 - 📱 Fully **responsive** design (Tailwind CSS)
 - 🌤️ Displays temperature, humidity, pressure, wind, sunrise/sunset & more
 
+---
+
 ## 📸 Preview
 
-> Add a screenshot to `public/preview.png` to display it here.
+![Mascot Weather Logo](https://github.com/sajjad-mascot/react_weather/mascot_weather_screenshot.png)
 
 ---
 
@@ -69,7 +78,7 @@ npm run deploy
 🏠 Shahkot, Punjab, Pakistan  
 📫 Email: sajjad7251401@gmail.com  
 🔗 GitHub: [sajjad-mascot](https://github.com/sajjad-mascot)  
-🔗 LinkedIn: [linkedin.com/in/sajjad-ali-ab924919b](https://linkedin.com/in/sajjad-ali-ab924919b)
+🔗 LinkedIn: [linkedin.com/in/sajjad-ali-ab924919b](https://linkedin.com/in/sajjad-ali-ab924919b)  
 📞 **Need Help or Want to Collaborate?**  
 💬 [Message me on WhatsApp](https://wa.me/923008332537)
 
